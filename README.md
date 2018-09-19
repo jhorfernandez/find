@@ -18,4 +18,6 @@
 -Abra su navegador a http://localhost/find
 
 ![Fondo de pantalla del aplicativo web](https://github.com/jhorfernandez/find/blob/master/find/img/DeepinScreenshot_Seleccionar%20%C3%A1rea_20180919135807.png)
+![Fondo de pantalla del aplicativo web](https://github.com/jhorfernandez/find/blob/master/find/img/DeepinScreenshot_Seleccionar%20%C3%A1rea_20180919135626.png)
+![Fondo de pantalla del aplicativo web](https://github.com/jhorfernandez/find/blob/master/find/img/DeepinScreenshot_Seleccionar%20%C3%A1rea_20180919135713.png)
 
