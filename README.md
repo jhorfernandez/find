@@ -5,7 +5,7 @@
 -Javascript
 -php
 **Lenguaje de Consulta Utilizado**
--MyQql
+-Mysql
 
 ##Correr localmente
 *Este repositorio contiene el código central utilizado en la aplicación web.*
