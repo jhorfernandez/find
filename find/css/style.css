@@ -1,0 +1,421 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+····················································
+==================contenido=================
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
+*/
+
+#contenido{
+	width: 500px;
+	height: 500px;
+	/*background: orange; */
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#caja{
+	width: 400px;
+	height: 400px;
+	/*background: red;*/
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+#boton{
+   float: right;
+   width: 100px;
+   margin-right: 150px;
+}
+
+.lb{
+	background: #0069d9;
+	width: 400px;
+	border-radius: 10px;
+	text-align: center;
+	color: #fff;
+}
+
+#contenido1{
+	width: 90%;
+	height: 200px;
+	/*background: orange; */
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.logo{
+	margin-top: 20px;
+}
+
+#caja1{
+	width: 50%;
+	height: 100%;
+	/*background: red;*/
+	float: left;
+	display: inline-block;
+}
+
+#caja2{
+    width: 50%;
+	height: 100%;
+	/*background: yellow;*/
+	float: right;
+}
+
+.listas{
+	margin-top: 20px;
+}
+
+.listas1{
+	margin-top: 20px;
+}
+
+.boton1{
+	margin-top: 20px;
+	margin-left: 40%;
+}
+
+#caja3{
+	width: 90%;
+	height: auto;
+	/*background: orange; */
+	padding-top: 10px;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#caja4{
+	width: 90%;
+	height: auto;
+	/*background: orange; */
+	padding-top: 10px;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#nombre{
+   font-size: 16px;
+   float: right;
+   margin-right: 200px;
+   margin-top: 80px;
+}
+
+#mover{
+   float: right;
+   margin-right: 280px;
+   margin-top: -150px;
+}
+
+#logo2{
+   margin-top: 20px;
+   margin-left: 35%;
+}
+
+#logo3{
+	 width: 200px;
+	 height: 200px;
+	 margin-top: 10px;
+   margin-left: 30%;
+}
+
+.tc{
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+}
+
+/*
+  ########################################################
+  ################ panel de administración ###############
+  ########################################################
+*/
+#caja5{
+   width: 100%;
+	 height: 70px;
+	 /*background: yellow;*/
+	 background: #007bff;
+}
+
+#caja6{
+  width: 250px;
+	height: 715px;
+	/*background: green;*/
+	background: #212d31;
+	float: left;
+}
+
+#caja8{
+	width: 250px;
+	height: 200px;
+	/*background: orange;*/
+	background: #212d31;
+	float: left;
+}
+
+#caja9{
+	width: 250px;
+	height: 500px;
+	/*background: black;*/
+	background: #212d31;
+	float: left;
+}
+
+#caja7{
+   width: 70%;
+	 height: 600px;
+	 /*background: blue;*/
+	 background: #fff;
+	 margin-left: 17%;
+}
+
+#caja10{
+	 width: 40px;
+	 height: 30px;
+	 /*background: red;*/
+	 float: right;
+	 display: inline-block;
+	 margin-top: 20px;
+}
+
+#tamaño4{
+	color: #fff;
+}
+
+#caja11{
+	 width: 250px;
+	 display: inline-block;
+	 float: left;
+	 height: 50px;
+	 /*background: green;*/
+	 margin-top: 10px;
+}
+
+#tamaño{
+	font-size: 150px;
+	margin: 40px 50px 40px 50px;
+	color: #fff;
+}
+
+#caja12{
+   width: 95%;
+	 height: 250px;
+	 /*background: red;*/
+	 background: #fff;
+	 margin-left: 2.5%;
+}
+
+#caja13{
+	width: 95%;
+	height: 250px;
+	/*background: black;*/
+	background: #fff;
+	margin-left: 2.5%;
+}
+
+#caja14{
+	width: 288px;
+	height: 199px;
+	float: left;
+	display: inline-block;
+	margin-left: 15%;
+}
+
+#caja15{
+	width: 288px;
+	height: 199px;
+	float: right;
+	display: inline-block;
+	margin-right: 15%;
+}
+
+#caja16{
+	width: 60%;
+	height: 100px;
+	float: right;
+	/*background: black;*/
+	background: #fff;
+	margin-right: 20%;
+	margin-top: 100px;
+}
+
+#caja17{
+	width: 17%;
+	height: 100px;
+	/*background: green;*/
+	background: #00a663;
+	display: inline-block;
+	margin-left: 14%;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+#caja18{
+	width: 17%;
+	height: 100px;
+	background: #00a663;
+	display: inline-block;
+	margin-left: 10%;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+#caja19{
+	width: 17%;
+	height: 100px;
+	/*background: green;*/
+	background: #00a663;
+	display: inline-block;
+	margin-left: 10%;
+	border-radius: 10px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+/*#caja20{
+	width: 100%;
+	height: 50px;
+	display: inline-block;
+}*/
+
+#texto1{
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#tamaño1{
+	font-size: 40px;
+	color: #fff;
+}
+
+#tamaño2{
+	font-size: 40px;
+	color: #fff;
+}
+
+#tamaño3{
+	font-size: 40px;
+	color: #fff;
+}
+
+.texto2{
+	float: right;
+	color: #fff;
+}
+
+/*
+  ########################################################
+  ################ usuarios.php pg #######################
+  ########################################################
+*/
+
+#caja20{
+     width: 70%;
+	 height: 600px;
+	 background: #fff;
+	 margin-left: 24%;
+}
+
+#caja21{
+     width: 95%;
+	 height: 150px;
+	 /*background: red;*/
+	 background: #fff;
+	 margin-left: 2.5%;
+	 box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#caja22{
+	width: 95%;
+	height: auto;
+	/*background: black;*/
+	background: #fff;
+	margin-left: 2.5%;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#caja23{
+	width: 100%;
+	height: 60px;
+	margin-top: 60px;
+	background: #ecf0f5;
+	float: right;
+	display: inline-block;
+}
+
+#btn1{
+	float: right;
+}
+
+#buscar{
+    width: 50%;
+    height: 60px;
+    display: inline-block;
+    float: left;
+}
+
+#historia{
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#editar{
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#eliminar{
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#bnt2{
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#nueva{
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#agregar{
+    width: 50%;
+    height: 60px;
+    display: inline-block;
+    float: right;
+}
+
+#fml1{
+	float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#txt1{
+	bottom: 50px;
+}
+
+/*
+  ########################################################
+  ################ agenda.php pg #########################
+  ########################################################
+*/
+
+#caja24{
+     width: 80%;
+	 height: 600px;
+	 background: #fff;
+	 margin-left: 20%;
+}
