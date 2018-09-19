@@ -17,5 +17,5 @@
 -Cargar la db en la siguiente ruta http://localhost/phpmyadmin/ 
 -Abra su navegador a http://localhost/find
 
-![Fondo de pantalla del aplicativo web](https://drive.google.com/file/d/1CnSmPJJ22TIu3ETiUd_sLsUacAAhzNZM/view)
+![Fondo de pantalla del aplicativo web](https://drive.google.com/file/d/1CnSmPJJ22TIu3ETiUd_sLsUacAAhzNZM/view?usp=sharing)
 
