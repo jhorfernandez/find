@@ -13,7 +13,7 @@
 ###Instrucciones:
 
 -Clonar el repositorio
--Pegar el proyecto en la carperta (xampp - htdocs) o (wampserver - wwww)
+-Pegar el proyecto en la carperta (xampp - htdocs) o (wampserver - www)
 -Cargar la db en la siguiente ruta http://localhost/phpmyadmin/ 
 -Abra su navegador a http://localhost/find
 
